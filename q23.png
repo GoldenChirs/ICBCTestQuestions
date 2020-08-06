@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+	<title>Error 404: File not found</title>
+	<link rel="stylesheet" href="/styles/vendor/normalize.css">
+	<link rel="stylesheet" href="/styles/style.css">
+	<link rel="icon" type="image/x-icon" href="favicon.ico">
+	<script async="" src="//www.google-analytics.com/analytics.js"></script>
+	<script src="/components/vendor/modernizr.custom.min.js"></script>
+</head>
+<body class="test error">
+	<div class="header" role="banner">
+		<div class="container">
+			<h1 class="header-text">Practice knowledge test</h1>
+			<div class="header-logo">ICBC</div>
+		</div>
+	</div>
+	<div class="container" role="main">
+		<section>
+			<h1>Error 404: Nothing to see here</h1>
+			<p>The page that you're trying to reach isn't here.  You may have been directed here by a broken link, an out-of-date bookmark, or a mistyped URL.</p>
+			<p>Please try one of the following practice tests:</p>
+			<ul>
+				<li><a href="http://practicetestdev.icbc.com/#/opkt">Full test</a></li>
+				<li><a href="http://practicetestdev.icbc.com/#/signs">Signs test</a></li>
+				<li><a href="http://practicetestdev.icbc.com/#/opkt/punjabi">Full test - Punjabi</a></li>
+			</ul>
+		</section>
+	</div>
+	<div class="footer"></div>
+</body>
+</html>
